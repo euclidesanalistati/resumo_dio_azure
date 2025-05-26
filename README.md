@@ -1,2 +1,3 @@
 # resumo_dio_azure
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
+  Eu aprendi sobre os conceitos de nuvem e toda sua trajetoria ao longo desses 50 anos, Azure é um modelo de computação em nuvem que permite você acessar serviços de servidores via internet sem precisar se preocupar com estrutura e manutenção das maquinas.
